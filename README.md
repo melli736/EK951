@@ -387,8 +387,8 @@ ZooKeeper ist wie ein Manager in einem Teamprojekt. Er sorgt dafür, dass alle T
 
 
 ## Quellen 
-Tutorial: https://blog.min.io/complex-workflows-apache-kafka-minio/
-Kind Quick Start Tutorial: https://kind.sigs.k8s.io/docs/user/quick-start/?ref=blog.min.io#installation
-Helm docs: https://helm.sh/docs/intro/install/
+* Tutorial: https://blog.min.io/complex-workflows-apache-kafka-minio/
+* Kind Quick Start Tutorial: https://kind.sigs.k8s.io/docs/user/quick-start/?ref=blog.min.io#installation
+* Helm docs: https://helm.sh/docs/intro/install/
 
 
